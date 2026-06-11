@@ -17,7 +17,7 @@ Excel-based dashboard analyzing IPL team and player performance across seasons.
 - Player statistics visualized
 
 ## Dashboard Preview
-<img width="485" height="258" alt="image" src="https://github.com/user-attachments/assets/f1cf4716-5778-486e-b11e-affa0adc309d" />
+<img width="600" height="350" alt="image" src="https://github.com/user-attachments/assets/f1cf4716-5778-486e-b11e-affa0adc309d" />
 
 ## Skills Demonstrated
 Excel, Pivot Tables, Charts, Data Analysis
